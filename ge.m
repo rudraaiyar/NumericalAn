@@ -1,3 +1,4 @@
+%rudra aiyar
 %Matrix A
 A=[6 1 7 7 6 1 8;
     7 5 5 2 7 8 7;
